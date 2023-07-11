@@ -39,6 +39,7 @@ class MainViewController: UIViewController {
         super.viewDidLoad()
         
         configureViews()
+        
         configureConstraints()
         
     }
